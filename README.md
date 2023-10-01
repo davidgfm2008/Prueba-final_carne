@@ -1,7 +1,6 @@
 # Prueba_final_carne
 
 
-
 Proyecto de entrenamiento de un clasificador de la Carne usando redes neuronales convolucional
 
 ![image](https://github.com/davidgfm2008/Prueba-final_carne/assets/96543442/493d5405-6d22-44d0-aeb3-a7d4358ccf02)
@@ -23,3 +22,5 @@ test.
 
 # Referencia 
 https://www.aprendemachinelearning.com/clasificacion-de-imagenes-en-python/
+
+
